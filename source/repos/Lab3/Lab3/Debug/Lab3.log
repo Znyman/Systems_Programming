@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab3\lab3\main.cpp(92): warning C4389: '==': signed/unsigned mismatch
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab3\lab3\main.cpp(93): warning C4389: '==': signed/unsigned mismatch
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab3\lab3\main.cpp(94): warning C4389: '==': signed/unsigned mismatch
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab3\lab3\main.cpp(100): warning C4100: 'argv': unreferenced formal parameter
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab3\lab3\main.cpp(100): warning C4100: 'argc': unreferenced formal parameter
+  Lab3.vcxproj -> C:\Users\Zache\OneDrive\Documents\College\DU\comp2355\source\repos\Lab3\Debug\Lab3.exe

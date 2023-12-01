@@ -1,0 +1,8 @@
+﻿  Timer.cpp
+  main.cpp
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab13\lab13\main.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab13\lab13\main.cpp(64): error C3867: 'std::thread::join': non-standard syntax; use '&' to create a pointer to member
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab13\lab13\main.cpp(79): error C3867: 'std::thread::join': non-standard syntax; use '&' to create a pointer to member
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab13\lab13\main.cpp(115): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab13\lab13\main.cpp(122): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  Generating Code...

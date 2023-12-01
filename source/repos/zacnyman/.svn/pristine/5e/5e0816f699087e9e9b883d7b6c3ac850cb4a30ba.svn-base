@@ -1,0 +1,3 @@
+﻿  PackedArray.cpp
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab6\lab6\packedarray.cpp(12): warning C4838: conversion from 'int' to '::size_t' requires a narrowing conversion
+  Lab6.vcxproj -> C:\Users\Zache\OneDrive\Documents\College\DU\comp2355\source\repos\Lab6\x64\Debug\Lab6.exe

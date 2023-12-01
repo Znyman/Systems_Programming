@@ -1,0 +1,45 @@
+#include <iostream>
+#include "LinkedList.h"
+
+using std::cout;
+using std::endl;
+
+LinkedList::LinkedList()
+{
+	head = NULL;
+}
+void LinkedList::InsertAtHead(int v)
+{
+	Node * newNode = new Node(v);
+	if (head == NULL)
+	{
+		newNode->SetNext(NULL);
+		head = newNode;
+		return;
+	}
+	newNode->SetNext(head);
+	head = newNode;
+}
+
+void LinkedList::PrintList()
+{
+	if (head == NULL)
+	{
+		cout << "List is empty" << endl;
+		return;
+	}
+	Node * temp = head;
+	while (temp->GetNext() != NULL)
+	{
+		temp->PrintNode();
+		temp = temp->GetNext();
+	}
+	temp->PrintNode();
+	cout << endl;
+}
+
+void LinkedList::freeList()
+{
+	delete[] head;
+	head = NULL;
+}

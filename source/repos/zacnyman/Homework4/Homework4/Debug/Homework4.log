@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework4\homework4\main.cpp(45): warning C4551: function call missing argument list
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework4\homework4\main.cpp(56): warning C4456: declaration of 'i' hides previous local declaration
+  c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework4\homework4\main.cpp(48): note: see declaration of 'i'
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework4\homework4\main.cpp(71): warning C4456: declaration of 'i' hides previous local declaration
+  c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework4\homework4\main.cpp(48): note: see declaration of 'i'
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework4\homework4\main.cpp(86): warning C4456: declaration of 'i' hides previous local declaration
+  c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework4\homework4\main.cpp(48): note: see declaration of 'i'
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework4\homework4\main.cpp(102): warning C4002: too many actual parameters for macro 'assert'
+  Homework4.vcxproj -> C:\Users\Zache\OneDrive\Documents\College\DU\comp2355\source\repos\Homework4\Debug\Homework4.exe

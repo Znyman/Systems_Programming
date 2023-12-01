@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\zache\source\repos\lab2\lab2\main.cpp(101): warning C4101: 'uninitINT': unreferenced local variable
+c:\users\zache\source\repos\lab2\lab2\main.cpp(102): warning C4101: 'uninitFLOAT': unreferenced local variable
+c:\users\zache\source\repos\lab2\lab2\main.cpp(103): warning C4101: 'uninitDOUBLE': unreferenced local variable
+  Lab2.vcxproj -> C:\Users\Zache\source\repos\Lab2\x64\Debug\Lab2.exe

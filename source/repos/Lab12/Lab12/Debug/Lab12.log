@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(140): error C2988: unrecognizable template declaration/definition
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(140): error C2143: syntax error: missing ';' before '*'
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(140): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(140): error C2065: 'T': undeclared identifier
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(140): error C2923: 'LinkedList': 'T' is not a valid template type argument for parameter 'T'
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(141): warning C4346: 'LinkedList<T>::Node::GetNext': dependent name is not a type
+  c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(141): note: prefix with 'typename' to indicate a type
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(141): error C2988: unrecognizable template declaration/definition
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(141): error C2059: syntax error: '<end Parse>'
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(141): error C2143: syntax error: missing ';' before '{'
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\lab12\lab12\linkedlist.h(141): error C2447: '{': missing function header (old-style formal list?)
