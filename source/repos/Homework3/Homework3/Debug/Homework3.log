@@ -1,0 +1,35 @@
+﻿  main.cpp
+  Generating Code...
+  Compiling...
+  surfaceExtraction.cpp
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(105): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(111): warning C4551: function call missing argument list
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(113): warning C4551: function call missing argument list
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(115): warning C4551: function call missing argument list
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(117): warning C4551: function call missing argument list
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(145): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(148): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(132): warning C4189: 'header': local variable is initialized but not referenced
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(133): warning C4101: 'currentReadStatus': unreferenced local variable
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(133): warning C4101: 'currentWriteStatus': unreferenced local variable
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework3\homework3\surfaceextraction.cpp(133): warning C4101: 'currentSeekStatus': unreferenced local variable
+  Generating Code...
+  Homework3.vcxproj -> C:\Users\Zache\OneDrive\Documents\College\DU\comp2355\source\repos\Homework3\Debug\Homework3.exe

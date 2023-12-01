@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\zache\onedrive\documents\college\du\comp2355\source\repos\homework2\homework2\main.cpp(9): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+  Homework2.vcxproj -> C:\Users\Zache\OneDrive\Documents\College\DU\comp2355\source\repos\Homework2\Debug\Homework2.exe
